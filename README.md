@@ -1,6 +1,6 @@
-# React authentication app flexible to link it with external api form any kind of authentication
-![image](https://user-images.githubusercontent.com/51262744/151706638-213ecf39-739b-4305-9399-fff5933c441c.png)
-![image](https://user-images.githubusercontent.com/51262744/151706646-55b21d4b-c76a-4904-968c-26c6dd717416.png)
+# React authentication app flexible to link it to any external authentication source 
+![image](https://user-images.githubusercontent.com/51262744/151706735-bb554366-8731-4423-a99c-26c4cba8dc15.png)
+![image](https://user-images.githubusercontent.com/51262744/151706722-eb733301-6ed7-4531-986d-716c2f5528ae.png)
 ![image](https://user-images.githubusercontent.com/51262744/151706695-77e3c389-d9d9-4963-a080-3b3fea32204c.png)
 
 
