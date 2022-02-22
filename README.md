@@ -1,7 +1,7 @@
 # OverView
-React authentication app flexible to link it to any external authentication source\
-Create Simple Login/Signup form with React JS code\
-The list of features I have built is the following:\
+React authentication app flexible to link it to any external authentication source.\
+Create Simple Login/Signup form with React JS code.\
+The list of features I have built is the following:
 
 Display login form with email, password, and submit button on the screen.\
 Display signup form with username, email, password, and submit button on the screen.\
