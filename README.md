@@ -1,14 +1,14 @@
 # OverView
-React authentication app flexible to link it to any external authentication source
-Create Simple Login/Signup form with React JS code
-The list of features I have built is the following:
+React authentication app flexible to link it to any external authentication source\
+Create Simple Login/Signup form with React JS code\
+The list of features I have built is the following:\
 
-Display login form with email, password, and submit button on the screen.
-Display signup form with username, email, password, and submit button on the screen.
-Users can input the values on the form.
-Validate username and password entered by the user(for testing purposes, the test was done against a local json file).
-Display an error message when the login fails.
-Redirect to a dashboard page and show the user who logged in.
+Display login form with email, password, and submit button on the screen.\
+Display signup form with username, email, password, and submit button on the screen.\
+Users can input the values on the form.\
+Validate username and password entered by the user(for testing purposes, the test was done against a local json file).\
+Display an error message when the login fails.\
+Redirect to a dashboard page and show the user who logged in.\
 
 ![image](https://user-images.githubusercontent.com/51262744/151706735-bb554366-8731-4423-a99c-26c4cba8dc15.png)
 ![image](https://user-images.githubusercontent.com/51262744/151706722-eb733301-6ed7-4531-986d-716c2f5528ae.png)
